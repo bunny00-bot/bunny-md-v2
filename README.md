@@ -1,11 +1,11 @@
 #BUNNY-MD-V2
 
-<strong>NB:<strong/> This repo is for Bunny-MD-V2
+<strong>NB:<strong/> This repo is for Bunny-MD-V1
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <br/>BUNNY-MD-V1 A MULTIDEVICE WHATSAPP BOT
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">                                                                                                                                                                  <a href="https://github.com/Itxxwasi">
-    <img src="https://files.catbox.moe/1o2hcm.jpg" width="500">
+    <img src="https://files.catbox.moe/4cm6kb.jpg" width="500">
 
 </a>
  <p align="center"><img src="https://profile-counter.glitch.me/{Itxxwasi}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
