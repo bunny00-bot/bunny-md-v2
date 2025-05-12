@@ -24,7 +24,7 @@
 
 ### SERVER 1
 
-<a href="https://bunny-md-v2-session.onrender.com/"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>
+<a href="https://bunny-md-v2.onrender.com"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>
 
 ### SERVER 2
 ### GET SESSION ID HERE
