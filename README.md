@@ -29,7 +29,7 @@
 ### SERVER 2
 ### GET SESSION ID HERE
 
-<a href="https://bunny-md-v2-session.onrender.com/"><img src="https://img.shields.io/badge/SESSION-ID-red" alt="Click Here to Get Pair-Code" width="110"></a>
+<a href="https://bunny-md-v2-02.onrender.com"><img src="https://img.shields.io/badge/SESSION-ID-red" alt="Click Here to Get Pair-Code" width="110"></a>
 
 
 
